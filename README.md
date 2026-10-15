@@ -58,3 +58,5 @@ model.predict([clean_text("Congratulations! You have won a free iPhone.")])  # 1
 - Compare against Logistic Regression, Multinomial Naive Bayes and a calibrated SVM.
 - Add handcrafted features (message length, share of uppercase letters, digit count).
 - Tune the decision threshold on `decision_function` to trade precision for recall.
+
+Author **ROJA**
